@@ -1,3 +1,6 @@
+
+# @ Jbj Zeehad
+
 a=1
 while a :
     num = int(input())
